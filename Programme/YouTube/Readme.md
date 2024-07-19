@@ -1,6 +1,9 @@
 # yt-dlp
 
-## Installation Linux
+## Installation des Tools unter Linux
+
+(Installation unter allen Debian Derivaten wie Ubuntu, Linux Mint usw...)
+
 ```
 sudo wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O /usr/local/bin/yt-dlp
 sudo chmod a+rx /usr/local/bin/yt-dlp
