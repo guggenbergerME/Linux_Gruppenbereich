@@ -1,5 +1,13 @@
 # Linux für alte Rechner
 
+Es gibt unzählige Projekte für alte Hardware. Hier mal eine grober Überblick.
+
+
+Hier ein Überblick über Linux Distributionen die für ältere Rechner ausgelegt sind.
+
++ [Mint XFCE](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Mint%20XFCE)
++ [Bodhi Linux](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Bodhi%20Linux)
++ [Xubuntu](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Xubuntu)
 
 ## Peppermint
 
@@ -141,12 +149,3 @@ Mindestanforderungen an die Hardware für Tiny Core Linux:
     RAM: 46 MB (empfohlen 64 MB)
     CPU: Pentium 2
 
-## Meine Empfehlungen
-
-Hier ein Überblick über Linux Distributionen die für ältere Rechner ausgelegt sind.
-
-+ [Mint XFCE](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Mint%20XFCE)
-+ [Bodhi Linux](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Bodhi%20Linux)
-+ [Xubuntu](https://github.com/guggenbergerME/Linux_Gruppenbereich/tree/main/Linux%20OS%20Systeme/alte%20Rechner/Xubuntu)
-
-Diese Versionen haben keine besonderen grosse Ansprüche an die Hardware.
