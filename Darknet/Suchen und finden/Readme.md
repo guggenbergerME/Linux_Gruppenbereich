@@ -11,5 +11,5 @@ Hier einige Onion Seiten als Einstiegspunkt in das deepnet.
 + [OnionLinks](http://onionv3vhlnitnehw2chmrmivrpva3myhv2gnbnsg62l6bejhwufypyd.onion/)
 + [The Hidden Wiki](http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)
 + [Immortal](http://immortal3u4qce76cxfa4uaqdb7riyrokqarrypdv7cyukedw3wxwiad.onion/)
-+ [KYCnot.me](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/)
++ [KYCnot.me](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) - Produkte und Dienstleistungen ohne KYC
 + [Self-defense](https://ssd.eff.org/)
